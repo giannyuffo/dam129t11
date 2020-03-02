@@ -1,0 +1,6 @@
+﻿a=3;b=2    
+c=a*b-b                                        a,b,c ∃ N
+a=b-a 
+
+
+z=(b>a)||(a>b)                                        variables Boolean
